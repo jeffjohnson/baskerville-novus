@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="2">
+  <advance width="532"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="46" y="-30" type="line" smooth="yes"/>
+      <point x="40" y="-40"/>
+      <point x="30" y="-40" type="qcurve" smooth="yes"/>
+      <point x="6" y="-40" type="line" smooth="yes"/>
+      <point x="0" y="-40"/>
+      <point x="0" y="-35" type="qcurve" smooth="yes"/>
+      <point x="0" y="-33"/>
+      <point x="2" y="-30" type="qcurve" smooth="yes"/>
+      <point x="486" y="715" type="line" smooth="yes"/>
+      <point x="492" y="725"/>
+      <point x="502" y="725" type="qcurve" smooth="yes"/>
+      <point x="526" y="725" type="line" smooth="yes"/>
+      <point x="532" y="725"/>
+      <point x="532" y="720" type="qcurve" smooth="yes"/>
+      <point x="532" y="718"/>
+      <point x="530" y="715" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>705</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

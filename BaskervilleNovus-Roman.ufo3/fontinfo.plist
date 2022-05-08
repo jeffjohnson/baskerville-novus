@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>familyName</key>
+    <string>Baskerville Novus</string>
+    <key>styleName</key>
+    <string>Roman</string>
+    <key>styleMapFamilyName</key>
+    <string>Baskerville Novus Roman</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>versionMajor</key>
+    <integer>0</integer>
+    <key>versionMinor</key>
+    <integer>1</integer>
+    <key>copyright</key>
+    <string>Copyright (c) 2022, Jeff Johnson</string>
+    <key>unitsPerEm</key>
+    <integer>1050</integer>
+    <key>ascender</key>
+    <integer>760</integer>
+    <key>descender</key>
+    <integer>-290</integer>
+    <key>italicAngle</key>
+    <real>0</real>
+    <key>openTypeHeadCreated</key>
+    <string>2022/05/08 01:05:28</string>
+    <key>openTypeHheaAscender</key>
+    <integer>796</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-290</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>90</integer>
+    <key>openTypeNameVersion</key>
+    <string>Version 0.001</string>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>PfEd</string>
+    <key>openTypeOS2FamilyClass</key>
+    <array>
+      <integer>2</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>760</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-290</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>90</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>796</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>290</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>2</integer>
+      <integer>3</integer>
+      <integer>4</integer>
+      <integer>5</integer>
+      <integer>6</integer>
+      <integer>7</integer>
+      <integer>8</integer>
+      <integer>9</integer>
+    </array>
+    <key>postscriptFontName</key>
+    <string>BaskervilleNovus-Roman</string>
+    <key>postscriptFullName</key>
+    <string>Baskerville Novus Roman</string>
+    <key>postscriptWeightName</key>
+    <string>Regular</string>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-125</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-18</integer>
+      <integer>0</integer>
+      <integer>460</integer>
+      <integer>478</integer>
+      <integer>705</integer>
+      <integer>723</integer>
+      <integer>735</integer>
+      <integer>745</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-272</integer>
+      <integer>-290</integer>
+    </array>
+    <key>guidelines</key>
+    <array/>
+  </dict>
+</plist>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal" format="2">
+  <advance width="647"/>
+  <unicode hex="003D"/>
+  <outline>
+    <contour>
+      <point x="36" y="253" type="qcurve" smooth="yes"/>
+      <point x="36" y="271" type="line" smooth="yes"/>
+      <point x="36" y="280"/>
+      <point x="45" y="280" type="qcurve" smooth="yes"/>
+      <point x="602" y="280" type="line" smooth="yes"/>
+      <point x="611" y="280"/>
+      <point x="611" y="271" type="qcurve" smooth="yes"/>
+      <point x="611" y="253" type="line" smooth="yes"/>
+      <point x="611" y="244"/>
+      <point x="602" y="244" type="qcurve" smooth="yes"/>
+      <point x="45" y="244" type="line" smooth="yes"/>
+      <point x="36" y="244"/>
+    </contour>
+    <contour>
+      <point x="36" y="433" type="qcurve" smooth="yes"/>
+      <point x="36" y="451" type="line" smooth="yes"/>
+      <point x="36" y="460"/>
+      <point x="45" y="460" type="qcurve" smooth="yes"/>
+      <point x="602" y="460" type="line" smooth="yes"/>
+      <point x="611" y="460"/>
+      <point x="611" y="451" type="qcurve" smooth="yes"/>
+      <point x="611" y="433" type="line" smooth="yes"/>
+      <point x="611" y="424"/>
+      <point x="602" y="424" type="qcurve" smooth="yes"/>
+      <point x="45" y="424" type="line" smooth="yes"/>
+      <point x="36" y="424"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>244</integer>
+            <key>width</key>
+            <integer>36</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>424</integer>
+            <key>width</key>
+            <integer>36</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
