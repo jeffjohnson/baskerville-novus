@@ -17,21 +17,21 @@
     <key>copyright</key>
     <string>Copyright (c) 2022, Jeff Johnson</string>
     <key>unitsPerEm</key>
-    <integer>1050</integer>
+    <integer>1000</integer>
     <key>ascender</key>
-    <integer>760</integer>
+    <integer>780</integer>
     <key>descender</key>
-    <integer>-290</integer>
+    <integer>-220</integer>
     <key>italicAngle</key>
     <real>0</real>
     <key>openTypeHeadCreated</key>
     <string>2022/05/08 01:05:28</string>
     <key>openTypeHheaAscender</key>
-    <integer>796</integer>
+    <integer>758</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-290</integer>
+    <integer>-276</integer>
     <key>openTypeHheaLineGap</key>
-    <integer>90</integer>
+    <integer>86</integer>
     <key>openTypeNameVersion</key>
     <string>Version 0.001</string>
     <key>openTypeOS2WidthClass</key>
@@ -48,15 +48,15 @@
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>760</integer>
+    <integer>780</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-290</integer>
+    <integer>-220</integer>
     <key>openTypeOS2TypoLineGap</key>
-    <integer>90</integer>
+    <integer>86</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>796</integer>
+    <integer>758</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>290</integer>
+    <integer>276</integer>
     <key>openTypeOS2UnicodeRanges</key>
     <array>
       <integer>0</integer>
@@ -77,26 +77,43 @@
     <key>postscriptWeightName</key>
     <string>Regular</string>
     <key>postscriptUnderlineThickness</key>
-    <integer>50</integer>
+    <integer>47</integer>
     <key>postscriptUnderlinePosition</key>
-    <integer>-125</integer>
+    <integer>-119</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <integer>-18</integer>
+      <integer>-8</integer>
       <integer>0</integer>
-      <integer>460</integer>
-      <integer>478</integer>
-      <integer>705</integer>
-      <integer>723</integer>
-      <integer>735</integer>
-      <integer>745</integer>
+      <integer>448</integer>
+      <integer>456</integer>
+      <integer>671</integer>
+      <integer>689</integer>
+      <integer>700</integer>
+      <integer>710</integer>
     </array>
     <key>postscriptOtherBlues</key>
     <array>
-      <integer>-272</integer>
-      <integer>-290</integer>
+      <integer>-259</integer>
+      <integer>-276</integer>
     </array>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>x</key>
+        <real>500</real>
+        <key>y</key>
+        <real>456</real>
+        <key>angle</key>
+        <real>0</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>494</real>
+        <key>y</key>
+        <real>448</real>
+        <key>angle</key>
+        <real>0</real>
+      </dict>
+    </array>
   </dict>
 </plist>
