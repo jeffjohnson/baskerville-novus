@@ -27,7 +27,7 @@
     <key>openTypeHeadCreated</key>
     <string>2022/05/08 01:05:28</string>
     <key>openTypeHheaAscender</key>
-    <integer>758</integer>
+    <integer>765</integer>
     <key>openTypeHheaDescender</key>
     <integer>-276</integer>
     <key>openTypeHheaLineGap</key>
@@ -54,7 +54,7 @@
     <key>openTypeOS2TypoLineGap</key>
     <integer>86</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>758</integer>
+    <integer>765</integer>
     <key>openTypeOS2WinDescent</key>
     <integer>276</integer>
     <key>openTypeOS2UnicodeRanges</key>

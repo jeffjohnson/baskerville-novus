@@ -4,6 +4,20 @@
   <unicode hex="006E"/>
   <outline>
     <contour>
+      <point x="47.291" y="744.201" type="line"/>
+      <point x="68.5039" y="765.414" type="line"/>
+      <point x="82.6465" y="751.272" type="line"/>
+      <point x="61.4326" y="730.06" type="line"/>
+      <point x="82.6465" y="708.846" type="line"/>
+      <point x="68.5039" y="694.704" type="line"/>
+      <point x="47.291" y="715.917" type="line"/>
+      <point x="26.0771" y="694.704" type="line"/>
+      <point x="11.9355" y="708.846" type="line"/>
+      <point x="33.1484" y="730.06" type="line"/>
+      <point x="11.9355" y="751.272" type="line"/>
+      <point x="26.0771" y="765.414" type="line"/>
+    </contour>
+    <contour>
       <point x="420" y="270" type="line" smooth="yes"/>
       <point x="420" y="320"/>
       <point x="411.167" y="356"/>
