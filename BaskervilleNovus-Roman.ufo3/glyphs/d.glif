@@ -32,7 +32,8 @@
       <point x="432" y="681"/>
       <point x="432" y="671" type="curve" smooth="yes"/>
       <point x="432" y="482"/>
-      <point x="432" y="104" type="line" smooth="yes"/>
+      <point x="432" y="104"/>
+      <point x="432" y="104" type="curve" smooth="yes"/>
       <point x="432" y="72"/>
       <point x="458" y="52"/>
       <point x="488" y="49" type="curve" smooth="yes"/>
